@@ -1,6 +1,6 @@
 {
-    "name": "Fitness Tracker",
-    "short_name": "Fitness",
+    "name": "DEC Health Fitness Tracker",
+    "short_name": "DEC Fitness",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
