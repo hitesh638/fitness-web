@@ -111,31 +111,36 @@
   "id": "push_up",
   "name": "Push-Up",
   "muscle": "Chest",
-  "equipment": "Bodyweight"
+  "equipment": "Bodyweight",
+  "kind": "reps"
  },
  {
   "id": "incline_push_up",
   "name": "Incline Push-Up",
   "muscle": "Chest",
-  "equipment": "Bodyweight"
+  "equipment": "Bodyweight",
+  "kind": "reps"
  },
  {
   "id": "decline_push_up",
   "name": "Decline Push-Up",
   "muscle": "Chest",
-  "equipment": "Bodyweight"
+  "equipment": "Bodyweight",
+  "kind": "reps"
  },
  {
   "id": "diamond_push_up",
   "name": "Diamond Push-Up",
   "muscle": "Chest",
-  "equipment": "Bodyweight"
+  "equipment": "Bodyweight",
+  "kind": "reps"
  },
  {
   "id": "chest_dip",
   "name": "Chest Dip",
   "muscle": "Chest",
-  "equipment": "Bodyweight"
+  "equipment": "Bodyweight",
+  "kind": "reps"
  },
  {
   "id": "band_chest_press",
@@ -213,25 +218,29 @@
   "id": "pull_up",
   "name": "Pull-Up",
   "muscle": "Back",
-  "equipment": "Bodyweight"
+  "equipment": "Bodyweight",
+  "kind": "reps"
  },
  {
   "id": "chin_up",
   "name": "Chin-Up",
   "muscle": "Back",
-  "equipment": "Bodyweight"
+  "equipment": "Bodyweight",
+  "kind": "reps"
  },
  {
   "id": "neutral_grip_pull_up",
   "name": "Neutral-Grip Pull-Up",
   "muscle": "Back",
-  "equipment": "Bodyweight"
+  "equipment": "Bodyweight",
+  "kind": "reps"
  },
  {
   "id": "inverted_row",
   "name": "Inverted Row",
   "muscle": "Back",
-  "equipment": "Bodyweight"
+  "equipment": "Bodyweight",
+  "kind": "reps"
  },
  {
   "id": "assisted_pull_up",
@@ -291,7 +300,8 @@
   "id": "back_extension",
   "name": "Back Extension",
   "muscle": "Back",
-  "equipment": "Bodyweight"
+  "equipment": "Bodyweight",
+  "kind": "reps"
  },
  {
   "id": "good_morning",
@@ -429,13 +439,15 @@
   "id": "pike_push_up",
   "name": "Pike Push-Up",
   "muscle": "Shoulders",
-  "equipment": "Bodyweight"
+  "equipment": "Bodyweight",
+  "kind": "reps"
  },
  {
   "id": "handstand_push_up",
   "name": "Handstand Push-Up",
   "muscle": "Shoulders",
-  "equipment": "Bodyweight"
+  "equipment": "Bodyweight",
+  "kind": "reps"
  },
  {
   "id": "landmine_press",
@@ -597,13 +609,15 @@
   "id": "bench_dip",
   "name": "Bench Dip",
   "muscle": "Triceps",
-  "equipment": "Bodyweight"
+  "equipment": "Bodyweight",
+  "kind": "reps"
  },
  {
   "id": "triceps_dip",
   "name": "Triceps Dip",
   "muscle": "Triceps",
-  "equipment": "Bodyweight"
+  "equipment": "Bodyweight",
+  "kind": "reps"
  },
  {
   "id": "machine_triceps_extension",
@@ -657,7 +671,8 @@
   "id": "dead_hang",
   "name": "Dead Hang",
   "muscle": "Forearms",
-  "equipment": "Bodyweight"
+  "equipment": "Bodyweight",
+  "kind": "time"
  },
  {
   "id": "plate_pinch",
@@ -777,31 +792,36 @@
   "id": "bodyweight_squat",
   "name": "Bodyweight Squat",
   "muscle": "Quads",
-  "equipment": "Bodyweight"
+  "equipment": "Bodyweight",
+  "kind": "reps"
  },
  {
   "id": "jump_squat",
   "name": "Jump Squat",
   "muscle": "Quads",
-  "equipment": "Bodyweight"
+  "equipment": "Bodyweight",
+  "kind": "reps"
  },
  {
   "id": "wall_sit",
   "name": "Wall Sit",
   "muscle": "Quads",
-  "equipment": "Bodyweight"
+  "equipment": "Bodyweight",
+  "kind": "time"
  },
  {
   "id": "sissy_squat",
   "name": "Sissy Squat",
   "muscle": "Quads",
-  "equipment": "Bodyweight"
+  "equipment": "Bodyweight",
+  "kind": "reps"
  },
  {
   "id": "pistol_squat",
   "name": "Pistol Squat",
   "muscle": "Quads",
-  "equipment": "Bodyweight"
+  "equipment": "Bodyweight",
+  "kind": "reps"
  },
  {
   "id": "kettlebell_goblet_squat",
@@ -861,13 +881,15 @@
   "id": "nordic_hamstring_curl",
   "name": "Nordic Hamstring Curl",
   "muscle": "Hamstrings",
-  "equipment": "Bodyweight"
+  "equipment": "Bodyweight",
+  "kind": "reps"
  },
  {
   "id": "glute_ham_raise",
   "name": "Glute-Ham Raise",
   "muscle": "Hamstrings",
-  "equipment": "Bodyweight"
+  "equipment": "Bodyweight",
+  "kind": "reps"
  },
  {
   "id": "cable_pull_through",
@@ -879,7 +901,8 @@
   "id": "stability_ball_leg_curl",
   "name": "Stability Ball Leg Curl",
   "muscle": "Hamstrings",
-  "equipment": "Other"
+  "equipment": "Other",
+  "kind": "reps"
  },
  {
   "id": "sumo_deadlift",
@@ -903,13 +926,15 @@
   "id": "glute_bridge",
   "name": "Glute Bridge",
   "muscle": "Glutes",
-  "equipment": "Bodyweight"
+  "equipment": "Bodyweight",
+  "kind": "reps"
  },
  {
   "id": "single_leg_glute_bridge",
   "name": "Single-Leg Glute Bridge",
   "muscle": "Glutes",
-  "equipment": "Bodyweight"
+  "equipment": "Bodyweight",
+  "kind": "reps"
  },
  {
   "id": "machine_hip_thrust",
@@ -945,7 +970,8 @@
   "id": "frog_pump",
   "name": "Frog Pump",
   "muscle": "Glutes",
-  "equipment": "Bodyweight"
+  "equipment": "Bodyweight",
+  "kind": "reps"
  },
  {
   "id": "smith_machine_hip_thrust",
@@ -957,13 +983,15 @@
   "id": "donkey_kick",
   "name": "Donkey Kick",
   "muscle": "Glutes",
-  "equipment": "Bodyweight"
+  "equipment": "Bodyweight",
+  "kind": "reps"
  },
  {
   "id": "fire_hydrant",
   "name": "Fire Hydrant",
   "muscle": "Glutes",
-  "equipment": "Bodyweight"
+  "equipment": "Bodyweight",
+  "kind": "reps"
  },
  {
   "id": "curtsy_lunge",
@@ -1011,7 +1039,8 @@
   "id": "single_leg_calf_raise",
   "name": "Single-Leg Calf Raise",
   "muscle": "Calves",
-  "equipment": "Bodyweight"
+  "equipment": "Bodyweight",
+  "kind": "reps"
  },
  {
   "id": "donkey_calf_raise",
@@ -1023,55 +1052,64 @@
   "id": "plank",
   "name": "Plank",
   "muscle": "Core",
-  "equipment": "Bodyweight"
+  "equipment": "Bodyweight",
+  "kind": "time"
  },
  {
   "id": "side_plank",
   "name": "Side Plank",
   "muscle": "Core",
-  "equipment": "Bodyweight"
+  "equipment": "Bodyweight",
+  "kind": "time"
  },
  {
   "id": "crunch",
   "name": "Crunch",
   "muscle": "Core",
-  "equipment": "Bodyweight"
+  "equipment": "Bodyweight",
+  "kind": "reps"
  },
  {
   "id": "bicycle_crunch",
   "name": "Bicycle Crunch",
   "muscle": "Core",
-  "equipment": "Bodyweight"
+  "equipment": "Bodyweight",
+  "kind": "reps"
  },
  {
   "id": "sit_up",
   "name": "Sit-Up",
   "muscle": "Core",
-  "equipment": "Bodyweight"
+  "equipment": "Bodyweight",
+  "kind": "reps"
  },
  {
   "id": "decline_sit_up",
   "name": "Decline Sit-Up",
   "muscle": "Core",
-  "equipment": "Bodyweight"
+  "equipment": "Bodyweight",
+  "kind": "reps"
  },
  {
   "id": "hanging_leg_raise",
   "name": "Hanging Leg Raise",
   "muscle": "Core",
-  "equipment": "Bodyweight"
+  "equipment": "Bodyweight",
+  "kind": "reps"
  },
  {
   "id": "hanging_knee_raise",
   "name": "Hanging Knee Raise",
   "muscle": "Core",
-  "equipment": "Bodyweight"
+  "equipment": "Bodyweight",
+  "kind": "reps"
  },
  {
   "id": "lying_leg_raise",
   "name": "Lying Leg Raise",
   "muscle": "Core",
-  "equipment": "Bodyweight"
+  "equipment": "Bodyweight",
+  "kind": "reps"
  },
  {
   "id": "captain_s_chair_leg_raise",
@@ -1089,43 +1127,50 @@
   "id": "ab_wheel_rollout",
   "name": "Ab Wheel Rollout",
   "muscle": "Core",
-  "equipment": "Other"
+  "equipment": "Other",
+  "kind": "reps"
  },
  {
   "id": "russian_twist",
   "name": "Russian Twist",
   "muscle": "Core",
-  "equipment": "Bodyweight"
+  "equipment": "Bodyweight",
+  "kind": "reps"
  },
  {
   "id": "mountain_climber",
   "name": "Mountain Climber",
   "muscle": "Core",
-  "equipment": "Bodyweight"
+  "equipment": "Bodyweight",
+  "kind": "time"
  },
  {
   "id": "dead_bug",
   "name": "Dead Bug",
   "muscle": "Core",
-  "equipment": "Bodyweight"
+  "equipment": "Bodyweight",
+  "kind": "reps"
  },
  {
   "id": "bird_dog",
   "name": "Bird Dog",
   "muscle": "Core",
-  "equipment": "Bodyweight"
+  "equipment": "Bodyweight",
+  "kind": "reps"
  },
  {
   "id": "hollow_body_hold",
   "name": "Hollow Body Hold",
   "muscle": "Core",
-  "equipment": "Bodyweight"
+  "equipment": "Bodyweight",
+  "kind": "time"
  },
  {
   "id": "v_up",
   "name": "V-Up",
   "muscle": "Core",
-  "equipment": "Bodyweight"
+  "equipment": "Bodyweight",
+  "kind": "reps"
  },
  {
   "id": "pallof_press",
@@ -1149,19 +1194,22 @@
   "id": "flutter_kick",
   "name": "Flutter Kick",
   "muscle": "Core",
-  "equipment": "Bodyweight"
+  "equipment": "Bodyweight",
+  "kind": "time"
  },
  {
   "id": "toe_touch",
   "name": "Toe Touch",
   "muscle": "Core",
-  "equipment": "Bodyweight"
+  "equipment": "Bodyweight",
+  "kind": "reps"
  },
  {
   "id": "weighted_plank",
   "name": "Weighted Plank",
   "muscle": "Core",
-  "equipment": "Plate"
+  "equipment": "Plate",
+  "kind": "time"
  },
  {
   "id": "power_clean",
@@ -1203,7 +1251,8 @@
   "id": "burpee",
   "name": "Burpee",
   "muscle": "Full body",
-  "equipment": "Bodyweight"
+  "equipment": "Bodyweight",
+  "kind": "reps"
  },
  {
   "id": "kettlebell_clean",
@@ -1245,84 +1294,126 @@
   "id": "bear_crawl",
   "name": "Bear Crawl",
   "muscle": "Full body",
-  "equipment": "Bodyweight"
+  "equipment": "Bodyweight",
+  "kind": "time"
  },
  {
   "id": "battle_ropes",
   "name": "Battle Ropes",
   "muscle": "Full body",
-  "equipment": "Other"
+  "equipment": "Other",
+  "kind": "time"
  },
  {
   "id": "treadmill_run",
   "name": "Treadmill Run",
   "muscle": "Cardio",
-  "equipment": "Machine"
+  "equipment": "Machine",
+  "kind": "cardio"
  },
  {
   "id": "treadmill_walk",
   "name": "Treadmill Walk",
   "muscle": "Cardio",
-  "equipment": "Machine"
+  "equipment": "Machine",
+  "kind": "cardio"
  },
  {
   "id": "incline_walk",
   "name": "Incline Walk",
   "muscle": "Cardio",
-  "equipment": "Machine"
+  "equipment": "Machine",
+  "kind": "cardio"
  },
  {
   "id": "stationary_bike",
   "name": "Stationary Bike",
   "muscle": "Cardio",
-  "equipment": "Machine"
+  "equipment": "Machine",
+  "kind": "cardio"
  },
  {
   "id": "rowing_machine",
   "name": "Rowing Machine",
   "muscle": "Cardio",
-  "equipment": "Machine"
+  "equipment": "Machine",
+  "kind": "cardio"
  },
  {
   "id": "elliptical",
   "name": "Elliptical",
   "muscle": "Cardio",
-  "equipment": "Machine"
+  "equipment": "Machine",
+  "kind": "cardio"
  },
  {
   "id": "stair_climber",
   "name": "Stair Climber",
   "muscle": "Cardio",
-  "equipment": "Machine"
+  "equipment": "Machine",
+  "kind": "cardio"
  },
  {
   "id": "jump_rope",
   "name": "Jump Rope",
   "muscle": "Cardio",
-  "equipment": "Other"
+  "equipment": "Other",
+  "kind": "time"
  },
  {
   "id": "jumping_jacks",
   "name": "Jumping Jacks",
   "muscle": "Cardio",
-  "equipment": "Bodyweight"
+  "equipment": "Bodyweight",
+  "kind": "time"
  },
  {
   "id": "high_knees",
   "name": "High Knees",
   "muscle": "Cardio",
-  "equipment": "Bodyweight"
+  "equipment": "Bodyweight",
+  "kind": "time"
  },
  {
   "id": "box_jump",
   "name": "Box Jump",
   "muscle": "Cardio",
-  "equipment": "Other"
+  "equipment": "Other",
+  "kind": "reps"
  },
  {
   "id": "assault_bike",
   "name": "Assault Bike",
   "muscle": "Cardio",
-  "equipment": "Machine"
+  "equipment": "Machine",
+  "kind": "cardio"
+ },
+ {
+  "id": "running",
+  "name": "Running",
+  "muscle": "Cardio",
+  "equipment": "Other",
+  "kind": "cardio"
+ },
+ {
+  "id": "walking",
+  "name": "Walking",
+  "muscle": "Cardio",
+  "equipment": "Other",
+  "kind": "cardio"
+ },
+ {
+  "id": "cycling",
+  "name": "Cycling",
+  "muscle": "Cardio",
+  "equipment": "Other",
+  "kind": "cardio"
+ },
+ {
+  "id": "swimming",
+  "name": "Swimming",
+  "muscle": "Cardio",
+  "equipment": "Other",
+  "kind": "cardio"
  }
 ]
